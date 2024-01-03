@@ -21,4 +21,3 @@ def main():
 
 if __name__ == '__main__' :
     main()
-출처: https://luvris2.tistory.com/96 [곰별의 차곡차곡 천천히:티스토리]
